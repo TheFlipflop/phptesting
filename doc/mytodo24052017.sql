@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS `mytodo`;
 CREATE DATABASE `mytodo`;
 
 USE `mytodo`;
